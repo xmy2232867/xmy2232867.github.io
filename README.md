@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://yansu.org](http://yansu.org)
+地址：[xm_my](http://xmy2232867.github.io)
 
 ### 安装说明
 
