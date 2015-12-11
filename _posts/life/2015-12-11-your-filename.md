@@ -1,8 +1,4 @@
 ---
-published: true
----
-
----
 layout: post
 title: 西海望，梦一场
 category: 生活
